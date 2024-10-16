@@ -76,3 +76,10 @@ def generate_plan(position: str, division: str, total_hours: int, daily_duty_hrs
     db.collection('trainingPlans').document(document_id).set(training_plan)
 
     return training_plan
+
+def get_existing_training_plans():
+    training_plans = []
+    docs = db.collection('trainingPlans').stream()
+    for doc in docs:
+        training_plans.append(doc.to_dict())
+    return training_plans
