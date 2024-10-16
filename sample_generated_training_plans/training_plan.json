@@ -1,0 +1,128 @@
+{
+  "total_tasks": 5,
+  "training_plan": {
+    "title": "Blockchain Developer Intern Internship Training Plan",
+    "description": "A comprehensive training plan for a 210-hour internship in Blockchain and Crypto, designed to equip interns with the necessary skills and knowledge to excel as a Blockchain Developer Intern.",
+    "durationInHrs": 210,
+    "tasks": [
+      {
+        "title": "Task 1: Introduction to Blockchain",
+        "description": "An introductory task to understand the basics of blockchain technology.",
+        "difficulty": "Easy",
+        "techStacks": [
+          {
+            "name": "Blockchain",
+            "type": "Technology",
+            "description": "A decentralized, distributed ledger that records transactions across a network."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Understanding Blockchain",
+            "description": "Ability to understand the fundamental concepts of blockchain technology."
+          }
+        ]
+      },
+      {
+        "title": "Task 2: Cryptocurrency Basics",
+        "description": "Understanding the basics of cryptocurrencies and their role in blockchain technology.",
+        "difficulty": "Easy",
+        "techStacks": [
+          {
+            "name": "Cryptocurrency",
+            "type": "Currency",
+            "description": "A digital or virtual currency that uses cryptography for security."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Cryptocurrency Knowledge",
+            "description": "Ability to understand the basics of cryptocurrencies."
+          }
+        ]
+      },
+      {
+        "title": "Task 3: Blockchain Network Analysis",
+        "description": "Analyze the performance of different blockchain networks and compare their scalability, security, and usability.",
+        "difficulty": "Medium",
+        "techStacks": [
+          {
+            "name": "Ethereum",
+            "type": "Blockchain",
+            "description": "The most widely used blockchain for smart contracts."
+          },
+          {
+            "name": "Binance Smart Chain",
+            "type": "Blockchain",
+            "description": "A fast and low-cost blockchain for DeFi applications."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Blockchain fundamentals",
+            "description": "Understanding of blockchain technology and its applications."
+          },
+          {
+            "name": "Network analysis",
+            "description": "Ability to analyze and compare different blockchain networks."
+          }
+        ]
+      },
+      {
+        "title": "Task 4: Smart Contract Development",
+        "description": "Develop a simple smart contract on Ethereum and deploy it to the test network.",
+        "difficulty": "Medium",
+        "techStacks": [
+          {
+            "name": "Solidity",
+            "type": "Programming Language",
+            "description": "The programming language for writing smart contracts on Ethereum."
+          },
+          {
+            "name": "Web3.js",
+            "type": "Library",
+            "description": "A JavaScript library for interacting with the Ethereum blockchain."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Smart contract development",
+            "description": "Ability to develop and deploy smart contracts."
+          },
+          {
+            "name": "Ethereum development",
+            "description": "Familiarity with Ethereum's development tools and ecosystem."
+          }
+        ]
+      },
+      {
+        "title": "Task 5: Blockchain Network Analysis",
+        "description": "Analyze the efficiency of different blockchain networks in terms of transaction speed and security.",
+        "difficulty": "Hard",
+        "techStacks": [
+          {
+            "name": "Ethereum",
+            "type": "Blockchain",
+            "description": "The Ethereum blockchain network."
+          },
+          {
+            "name": "Bitcoin",
+            "type": "Blockchain",
+            "description": "The Bitcoin blockchain network."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Blockchain Analysis",
+            "description": "Ability to analyze blockchain networks."
+          }
+        ]
+      }
+    ]
+  },
+  "difficulty_counts": {
+    "easy_tasks_count": 2,
+    "medium_tasks_count": 2,
+    "hard_tasks_count": 1
+  }
+}

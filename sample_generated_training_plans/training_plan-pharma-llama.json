@@ -1,0 +1,212 @@
+{
+    "training_plan": {
+        "title": "Pharmcist Intern Internship Training Plan",
+        "description": "A comprehensive training plan for a 410-hour internship in Pharmacy, designed to equip interns with the necessary skills and knowledge to excel as a Pharmcist Intern.",
+        "durationInHrs": 410,
+        "tasks": [
+            {
+                "title": "Task 1: Patient Consultation",
+                "description": "Conduct patient consultations to understand their medical history and provide appropriate medication advice.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "Pharmacy Management Software",
+                        "type": "Software",
+                        "description": "Utilize pharmacy management software to manage patient records and medication."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Communication",
+                        "description": "Effective communication with patients to understand their needs."
+                    },
+                    {
+                        "name": "Pharmacology",
+                        "description": "Knowledge of various medications and their effects."
+                    }
+                ]
+            },
+            {
+                "title": "Task 2: Medication Dispensing",
+                "description": "Dispense medications to patients and provide instructions on usage.",
+                "difficulty": "Easy",
+                "techStacks": [
+                    {
+                        "name": "Dispensing Machine",
+                        "type": "Hardware",
+                        "description": "Operate dispensing machines to accurately dispense medications."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Attention to Detail",
+                        "description": "Ensure accurate dispensing of medications."
+                    },
+                    {
+                        "name": "Patient Education",
+                        "description": "Educate patients on proper medication usage."
+                    }
+                ]
+            },
+            {
+                "title": "Task 3: Inventory Management",
+                "description": "Manage inventory levels of medications and supplies.",
+                "difficulty": "Hard",
+                "techStacks": [
+                    {
+                        "name": "Inventory Management System",
+                        "type": "Software",
+                        "description": "Use inventory management systems to track stock levels and reorder supplies."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Organizational",
+                        "description": "Maintain organized inventory and ensure timely restocking."
+                    },
+                    {
+                        "name": "Problem-Solving",
+                        "description": "Resolve issues related to stock levels and supply chain."
+                    }
+                ]
+            },
+            {
+                "title": "Task 4: Patient Consultation",
+                "description": "Conduct patient consultations to understand their medical history and provide appropriate advice.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "Patient Management System",
+                        "type": "Software",
+                        "description": "Utilize the patient management system to access patient records and manage consultations."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Communication",
+                        "description": "Effective communication with patients to understand their needs and provide advice."
+                    },
+                    {
+                        "name": "Patient Care",
+                        "description": "Provide empathetic and professional care to patients during consultations."
+                    }
+                ]
+            },
+            {
+                "title": "Task 5: Medication Dispensing",
+                "description": "Dispense medications to patients as per their prescriptions.",
+                "difficulty": "Easy",
+                "techStacks": [
+                    {
+                        "name": "Dispensing Software",
+                        "type": "Software",
+                        "description": "Use dispensing software to manage and track medication distribution."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Accuracy",
+                        "description": "Ensure accurate dispensing of medications according to prescriptions."
+                    },
+                    {
+                        "name": "Attention to Detail",
+                        "description": "Carefully review prescriptions to avoid any errors."
+                    }
+                ]
+            },
+            {
+                "title": "Task 6: Inventory Management",
+                "description": "Manage the inventory of medications and supplies in the pharmacy.",
+                "difficulty": "Hard",
+                "techStacks": [
+                    {
+                        "name": "Inventory Management System",
+                        "type": "Software",
+                        "description": "Utilize the inventory management system to track stock levels and reorder supplies."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Organizational",
+                        "description": "Maintain an organized inventory to ensure easy access and tracking of medications."
+                    },
+                    {
+                        "name": "Problem-Solving",
+                        "description": "Identify and resolve inventory discrepancies promptly."
+                    }
+                ]
+            },
+            {
+                "title": "Task 7: Patient Consultation",
+                "description": "Conduct patient consultations under the supervision of a licensed pharmacist.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "Pharmacy Management Software",
+                        "type": "Software",
+                        "description": "Utilize software to manage patient records and medication."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Communication",
+                        "description": "Develop effective communication skills with patients."
+                    },
+                    {
+                        "name": "Patient Care",
+                        "description": "Provide quality care to patients."
+                    }
+                ]
+            },
+            {
+                "title": "Task 8: Medication Dispensing",
+                "description": "Dispense medications to patients under the supervision of a licensed pharmacist.",
+                "difficulty": "Easy",
+                "techStacks": [
+                    {
+                        "name": "Dispensing Software",
+                        "type": "Software",
+                        "description": "Utilize software to accurately dispense medications."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Accuracy",
+                        "description": "Ensure accurate dispensing of medications."
+                    },
+                    {
+                        "name": "Time Management",
+                        "description": "Manage time efficiently to dispense medications promptly."
+                    }
+                ]
+            },
+            {
+                "title": "Task 9: Inventory Management",
+                "description": "Manage inventory levels of medications and supplies under the supervision of a licensed pharmacist.",
+                "difficulty": "Hard",
+                "techStacks": [
+                    {
+                        "name": "Inventory Management Software",
+                        "type": "Software",
+                        "description": "Utilize software to track and manage inventory levels."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Organizational",
+                        "description": "Maintain organized inventory levels."
+                    },
+                    {
+                        "name": "Problem-Solving",
+                        "description": "Solve problems related to inventory discrepancies."
+                    }
+                ]
+            }
+        ]
+    },
+    "difficulty_counts": {
+        "easy_tasks_count": 3,
+        "medium_tasks_count": 3,
+        "hard_tasks_count": 3
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "training_plan": {
+        "title": "Pharmacy Intern Internship Training Plan",
+        "description": "A comprehensive training plan for a 410-hour internship in the Healthcare division, designed to equip interns with the necessary skills and knowledge to excel as a Pharmacy Intern.",
+        "durationInHrs": 410,
+        "tasks": [
+            {
+                "title": "Medication Management",
+                "description": "Task 1: Review and manage medications for assigned patients under the supervision of a registered pharmacist. Ensure medications are appropriate, effective, and safe for each patient. Document all interventions and communication with the healthcare team.",
+                "difficulty": "Medium",
+                "techStacks": [],
+                "skills": [
+                    {
+                        "name": "Medication Therapy Management",
+                        "description": "The ability to review and recommend medications for patients based on their health conditions and other factors."
+                    }
+                ]
+            },
+            {
+                "title": "Pharmacy Operations",
+                "description": "Task 2: Assist with pharmacy operations, including inventory management, ordering supplies, and data entry. Ensure that all processes comply with policies, procedures, and laws governing pharmacy practice.",
+                "difficulty": "Easy",
+                "techStacks": [
+                    {
+                        "name": "Microsoft Office",
+                        "type": "Software",
+                        "description": "A suite of productivity tools including Word, Excel, and Outlook."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Pharmacy Operations Management",
+                        "description": "The ability to manage and optimize pharmacy operations to ensure efficient and effective patient care."
+                    }
+                ]
+            },
+            {
+                "title": "Patient Education",
+                "description": "Task 3: Educate patients on the proper use of medications, including dosage, side effects, and storage. Provide verbal and written information, and answer any questions patients may have.",
+                "difficulty": "Hard",
+                "techStacks": [],
+                "skills": [
+                    {
+                        "name": "Patient Communication",
+                        "description": "The ability to communicate effectively with patients, including those with limited health literacy or language barriers."
+                    }
+                ]
+            },
+            {
+                "title": "Task 7: Review and Organize Pharmacy Inventory",
+                "description": "Review and organize the pharmacy inventory, checking for expired medications and ensuring all medications are stored properly.",
+                "difficulty": "Easy",
+                "techStacks": [
+                    {
+                        "name": "Microsoft Excel",
+                        "type": "Software",
+                        "description": "Used to create a spreadsheet of the pharmacy inventory, noting the name, quantity, and expiration date of each medication."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Organizational Skills",
+                        "description": "The ability to keep the pharmacy inventory organized and up-to-date."
+                    },
+                    {
+                        "name": "Attention to Detail",
+                        "description": "The ability to carefully check each medication for accuracy and expiration dates."
+                    }
+                ]
+            },
+            {
+                "title": "Task 8: Process Prescriptions and Fill Medication Orders",
+                "description": "Process prescriptions and fill medication orders, ensuring all information is accurate and medications are dispensed correctly.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "Pharmacy Management Software",
+                        "type": "Software",
+                        "description": "Used to process prescriptions and fill medication orders, as well as to keep track of patient information and medication histories."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Typing and Data Entry",
+                        "description": "The ability to accurately and quickly type and enter data into the pharmacy management software."
+                    },
+                    {
+                        "name": "Medication Knowledge",
+                        "description": "The ability to correctly identify and dispense medications based on patient information and prescriptions."
+                    }
+                ]
+            },
+            {
+                "title": "Task 9: Conduct Medication Therapy Management Reviews",
+                "description": "Conduct medication therapy management (MTM) reviews with patients, reviewing their medication lists and making recommendations for changes or adjustments as needed.",
+                "difficulty": "Hard",
+                "techStacks": [
+                    {
+                        "name": "Electronic Health Record (EHR) System",
+                        "type": "Software",
+                        "description": "Used to access patient medication lists and health histories, as well as to document MTM review findings and recommendations."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Communication Skills",
+                        "description": "The ability to effectively communicate with patients about their medications and any necessary changes."
+                    },
+                    {
+                        "name": "Clinical Judgment",
+                        "description": "The ability to make informed and evidence-based recommendations for medication changes or adjustments."
+                    }
+                ]
+            },
+            {
+                "title": "Medication Management",
+                "description": "Manage and maintain accurate medication records for patients, including reconciling medications upon admission and discharge.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "Electronic Health Records",
+                        "type": "Software",
+                        "description": "System used to document and track patient health information."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Medication Reconciliation",
+                        "description": "Process of comparing a patient's current medication orders with all of the medications that the patient has been taking."
+                    }
+                ]
+            }
+        ]
+    },
+    "difficulty_counts": {
+        "easy_tasks_count": 2,
+        "medium_tasks_count": 3,
+        "hard_tasks_count": 2
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "training_plan": {
+        "title": "Web Developer Intern Internship Training Plan",
+        "description": "A comprehensive training plan for a 210-hour internship in the Web Development division, designed to equip interns with the necessary skills and knowledge to excel as a Web Developer Intern.",
+        "durationInHrs": 210,
+        "tasks": [
+            {
+                "title": "Task 1: HTML & CSS Coding",
+                "description": "Create and design a simple 5-page website from scratch using HTML and CSS only.",
+                "difficulty": "Easy",
+                "techStacks": [
+                    {
+                        "name": "HTML",
+                        "type": "Markup Language"
+                    },
+                    {
+                        "name": "CSS",
+                        "type": "Styling Language"
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Web Development",
+                        "description": "Fundamental understanding of web technologies."
+                    }
+                ]
+            },
+            {
+                "title": "Task 2: JavaScript Fundamentals",
+                "description": "Implement basic JavaScript functionalities such as DOM manipulation and event handling in a simple webpage.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "JavaScript",
+                        "type": "Programming Language"
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "JavaScript Fundamentals",
+                        "description": "Understanding of JavaScript programming concepts."
+                    }
+                ]
+            },
+            {
+                "title": "Task 3: Responsive Web Design",
+                "description": "Convert a static website into a responsive one using CSS media queries and/or Bootstrap.",
+                "difficulty": "Hard",
+                "techStacks": [
+                    {
+                        "name": "CSS",
+                        "type": "Styling Language"
+                    },
+                    {
+                        "name": "Bootstrap",
+                        "type": "Front-End Framework"
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Responsive Web Design",
+                        "description": "Ability to create websites that adjust according to different screen sizes."
+                    }
+                ]
+            },
+            {
+                "title": "Task 4: HTML & CSS Web Page Development",
+                "description": "Develop a static web page using HTML and CSS. The web page should have a responsive design and follow accessibility guidelines.",
+                "difficulty": "Easy",
+                "techStacks": [
+                    {
+                        "name": "HTML",
+                        "type": "Markup Language"
+                    },
+                    {
+                        "name": "CSS",
+                        "type": "Styling Language"
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Web Development",
+                        "description": "Fundamentals of Web Development"
+                    },
+                    {
+                        "name": "HTML",
+                        "description": "Creating structured content using HTML"
+                    },
+                    {
+                        "name": "CSS",
+                        "description": "Styling and layout of web pages using CSS"
+                    }
+                ]
+            },
+            {
+                "title": "Task 5: Introduction to Javascript",
+                "description": "Implement basic functionalities of a web page using JavaScript. Understand variables, data types, functions, loops, and conditionals.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "JavaScript",
+                        "type": "Programming Language"
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Web Development",
+                        "description": "Building dynamic web pages using JavaScript"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "description": "Understanding basic programming concepts in JavaScript"
+                    },
+                    {
+                        "name": "Programming Fundamentals",
+                        "description": "Basic programming concepts, data types, and control flow"
+                    }
+                ]
+            }
+        ]
+    },
+    "difficulty_counts": {
+        "easy_tasks_count": 2,
+        "medium_tasks_count": 2,
+        "hard_tasks_count": 1
+    }
+}

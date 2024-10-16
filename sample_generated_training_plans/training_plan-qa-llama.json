@@ -1,0 +1,296 @@
+{
+    "training_plan": {
+        "title": "Quality Assurance Intern Internship Training Plan",
+        "description": "A comprehensive training plan for a 500-hour internship in Quality Assurance, designed to equip interns with the necessary skills and knowledge to excel as a Quality Assurance Intern.",
+        "durationInHrs": 500,
+        "tasks": [
+            {
+                "title": "Task 1: Quality Control",
+                "description": "Conduct regular quality control checks on products to ensure they meet the required standards.",
+                "difficulty": "Easy",
+                "techStacks": [
+                    {
+                        "name": "Quality Management Software",
+                        "type": "Software",
+                        "description": "Utilize quality management software to track and manage quality control processes."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Attention to Detail",
+                        "description": "Ensure thoroughness in quality control checks."
+                    }
+                ]
+            },
+            {
+                "title": "Task 2: Test Case Creation",
+                "description": "Create test cases for new features to ensure they meet the required specifications.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "Test Management Tool",
+                        "type": "Software",
+                        "description": "Use a test management tool to organize and track test cases."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Analytical Skills",
+                        "description": "Analyze requirements to create effective test cases."
+                    }
+                ]
+            },
+            {
+                "title": "Task 3: Defect Reporting",
+                "description": "Identify and report defects found during testing to the development team.",
+                "difficulty": "Hard",
+                "techStacks": [
+                    {
+                        "name": "Defect Tracking System",
+                        "type": "Software",
+                        "description": "Utilize a defect tracking system to log and manage defects."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Communication Skills",
+                        "description": "Effectively communicate defect details to the development team."
+                    }
+                ]
+            },
+            {
+                "title": "Task 4: Test Case Creation",
+                "description": "Create test cases for a new feature in the application.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "JIRA",
+                        "type": "Project Management Tool",
+                        "description": "Used for tracking and managing test cases."
+                    },
+                    {
+                        "name": "Postman",
+                        "type": "API Testing Tool",
+                        "description": "Used for testing API endpoints."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Test Case Writing",
+                        "description": "Ability to write clear and concise test cases."
+                    },
+                    {
+                        "name": "API Testing",
+                        "description": "Knowledge of testing API endpoints."
+                    }
+                ]
+            },
+            {
+                "title": "Task 5: Automation Scripting",
+                "description": "Automate a series of manual tests using Selenium.",
+                "difficulty": "Hard",
+                "techStacks": [
+                    {
+                        "name": "Selenium",
+                        "type": "Automation Framework",
+                        "description": "Used for automating web browser interactions."
+                    },
+                    {
+                        "name": "Java",
+                        "type": "Programming Language",
+                        "description": "Used for writing automation scripts."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Automation",
+                        "description": "Ability to automate manual tests."
+                    },
+                    {
+                        "name": "Programming",
+                        "description": "Knowledge of programming concepts."
+                    }
+                ]
+            },
+            {
+                "title": "Task 6: Defect Reporting",
+                "description": "Identify and report defects found during testing.",
+                "difficulty": "Easy",
+                "techStacks": [
+                    {
+                        "name": "JIRA",
+                        "type": "Project Management Tool",
+                        "description": "Used for reporting defects."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Defect Identification",
+                        "description": "Ability to identify defects in the application."
+                    },
+                    {
+                        "name": "Reporting",
+                        "description": "Knowledge of how to report defects effectively."
+                    }
+                ]
+            },
+            {
+                "title": "Task 7: Test Case Creation",
+                "description": "Create test cases for a new feature in the software application.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "JIRA",
+                        "type": "Project Management Tool",
+                        "description": "Used for tracking and managing project tasks."
+                    },
+                    {
+                        "name": "TestRail",
+                        "type": "Test Management Tool",
+                        "description": "Used for creating and managing test cases."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Test Case Writing",
+                        "description": "Ability to write clear and concise test cases."
+                    },
+                    {
+                        "name": "Software Testing",
+                        "description": "Knowledge of software testing principles and methodologies."
+                    }
+                ]
+            },
+            {
+                "title": "Task 8: Automation Scripting",
+                "description": "Automate a set of tests using Selenium WebDriver.",
+                "difficulty": "Hard",
+                "techStacks": [
+                    {
+                        "name": "Selenium WebDriver",
+                        "type": "Automation Framework",
+                        "description": "Used for automating web browser interactions."
+                    },
+                    {
+                        "name": "Java",
+                        "type": "Programming Language",
+                        "description": "Used for writing automation scripts."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Automation Scripting",
+                        "description": "Ability to write automation scripts using Selenium WebDriver."
+                    },
+                    {
+                        "name": "Java Programming",
+                        "description": "Knowledge of Java programming language."
+                    }
+                ]
+            },
+            {
+                "title": "Task 9: Defect Reporting",
+                "description": "Identify and report defects found during testing.",
+                "difficulty": "Easy",
+                "techStacks": [
+                    {
+                        "name": "JIRA",
+                        "type": "Project Management Tool",
+                        "description": "Used for tracking and managing project tasks."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Defect Reporting",
+                        "description": "Ability to identify and report defects."
+                    },
+                    {
+                        "name": "Communication",
+                        "description": "Good communication skills to effectively report defects."
+                    }
+                ]
+            },
+            {
+                "title": "Task 10: Test Case Creation",
+                "description": "Create test cases for a new feature in the application.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "JIRA",
+                        "type": "Project Management Tool",
+                        "description": "Used for tracking and managing project tasks."
+                    },
+                    {
+                        "name": "TestRail",
+                        "type": "Test Management Tool",
+                        "description": "Used for creating and managing test cases."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Test Case Writing",
+                        "description": "Ability to write clear and concise test cases."
+                    },
+                    {
+                        "name": "Feature Understanding",
+                        "description": "Ability to understand the requirements of a new feature."
+                    }
+                ]
+            },
+            {
+                "title": "Task 11: Automation Scripting",
+                "description": "Automate a series of manual tests using Selenium.",
+                "difficulty": "Hard",
+                "techStacks": [
+                    {
+                        "name": "Selenium",
+                        "type": "Automation Framework",
+                        "description": "Used for automating web browser interactions."
+                    },
+                    {
+                        "name": "Java",
+                        "type": "Programming Language",
+                        "description": "Used for writing automation scripts."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Automation",
+                        "description": "Ability to automate manual tasks."
+                    },
+                    {
+                        "name": "Programming",
+                        "description": "Ability to write scripts in Java."
+                    }
+                ]
+            },
+            {
+                "title": "Task 12: Defect Reporting",
+                "description": "Identify and report defects in the application.",
+                "difficulty": "Easy",
+                "techStacks": [
+                    {
+                        "name": "JIRA",
+                        "type": "Project Management Tool",
+                        "description": "Used for tracking and managing project tasks."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Defect Identification",
+                        "description": "Ability to identify defects in the application."
+                    },
+                    {
+                        "name": "Reporting",
+                        "description": "Ability to report defects clearly and concisely."
+                    }
+                ]
+            }
+        ]
+    },
+    "difficulty_counts": {
+        "easy_tasks_count": 4,
+        "medium_tasks_count": 4,
+        "hard_tasks_count": 4
+    }
+}

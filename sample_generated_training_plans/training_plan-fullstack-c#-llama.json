@@ -1,0 +1,158 @@
+{
+  "training_plan": {
+    "title": "Full Stack Developer Intern Internship Training Plan",
+    "description": "A comprehensive training plan for a 240-hour internship in Software Development using C#, designed to equip interns with the necessary skills and knowledge to excel as a Full Stack Developer Intern.",
+    "durationInHrs": 240,
+    "tasks": [
+      {
+        "title": "Task 1: Introduction to C#",
+        "description": "Learn the basics of C# including variables, data types, loops, and functions.",
+        "difficulty": "Easy",
+        "techStacks": [
+          {
+            "name": "C#",
+            "type": "Programming Language",
+            "description": "A modern, object-oriented programming language."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Programming",
+            "description": "The ability to write code in a programming language."
+          }
+        ]
+      },
+      {
+        "title": "Task 2: Building a Simple Web Application",
+        "description": "Build a simple web application using ASP.NET Core to understand the basics of web development.",
+        "difficulty": "Easy",
+        "techStacks": [
+          {
+            "name": "ASP.NET Core",
+            "type": "Web Framework",
+            "description": "A cross-platform, open-source framework for building web applications."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Web Development",
+            "description": "The ability to build web applications."
+          }
+        ]
+      },
+      {
+        "title": "Task 3: Building a RESTful API",
+        "description": "Design and implement a RESTful API using C# that supports CRUD operations on a simple entity.",
+        "difficulty": "Medium",
+        "techStacks": [
+          {
+            "name": "C#",
+            "type": "Programming Language",
+            "description": "A modern, object-oriented programming language."
+          },
+          {
+            "name": "ASP.NET Core",
+            "type": "Web Framework",
+            "description": "A cross-platform, open-source framework for building web applications."
+          }
+        ],
+        "skills": [
+          {
+            "name": "API Design",
+            "description": "Understanding of how to design and implement RESTful APIs."
+          },
+          {
+            "name": "C# Programming",
+            "description": "Proficiency in C# programming language."
+          }
+        ]
+      },
+      {
+        "title": "Task 4: Frontend Integration",
+        "description": "Integrate the RESTful API with a simple frontend application to display and interact with the data.",
+        "difficulty": "Medium",
+        "techStacks": [
+          {
+            "name": "React",
+            "type": "Frontend Framework",
+            "description": "A JavaScript library for building user interfaces."
+          },
+          {
+            "name": "JavaScript",
+            "type": "Programming Language",
+            "description": "A high-level, dynamic, untyped, and interpreted programming language."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Frontend Development",
+            "description": "Knowledge of frontend development principles and practices."
+          },
+          {
+            "name": "React",
+            "description": "Experience with React framework."
+          }
+        ]
+      },
+      {
+        "title": "Task 5: Implement a RESTful API",
+        "description": "Implement a RESTful API using C# that supports CRUD operations on a simple entity such as a 'Book' with attributes like title, author, and publication year.",
+        "difficulty": "Hard",
+        "techStacks": [
+          {
+            "name": "C#",
+            "type": "Programming Language",
+            "description": "A modern, object-oriented programming language."
+          },
+          {
+            "name": "ASP.NET Core",
+            "type": "Web Framework",
+            "description": "A cross-platform, open-source framework for building web applications."
+          }
+        ],
+        "skills": [
+          {
+            "name": "API Design",
+            "description": "The ability to design and implement RESTful APIs."
+          },
+          {
+            "name": "C# Programming",
+            "description": "Proficiency in C# programming language."
+          }
+        ]
+      },
+      {
+        "title": "Task 6: Build a Single Page Application",
+        "description": "Build a Single Page Application (SPA) using a JavaScript framework like React or Angular that consumes the API implemented in Task 5.",
+        "difficulty": "Hard",
+        "techStacks": [
+          {
+            "name": "React",
+            "type": "JavaScript Framework",
+            "description": "A JavaScript library for building user interfaces."
+          },
+          {
+            "name": "C#",
+            "type": "Programming Language",
+            "description": "A modern, object-oriented programming language."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Front-end Development",
+            "description": "The ability to build user interfaces and single page applications."
+          },
+          {
+            "name": "JavaScript",
+            "description": "Proficiency in JavaScript programming language."
+          }
+        ]
+      }
+    ]
+  },
+  "difficulty_counts": {
+    "easy_tasks_count": 2,
+    "medium_tasks_count": 2,
+    "hard_tasks_count": 2
+  }
+}

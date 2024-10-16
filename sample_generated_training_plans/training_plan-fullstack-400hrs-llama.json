@@ -1,0 +1,283 @@
+{
+  "training_plan": {
+    "title": "Full Stack Developer Intern Internship Training Plan",
+    "description": "A comprehensive training plan for a 400-hour internship in Software Development using C#, designed to equip interns with the necessary skills and knowledge to excel as a Full Stack Developer Intern.",
+    "durationInHrs": 400,
+    "tasks": [
+      {
+        "title": "Task 1: Building a Simple Webpage",
+        "description": "Create a simple webpage with HTML, CSS, and JavaScript.",
+        "difficulty": "Easy",
+        "techStacks": [
+          {
+            "name": "HTML",
+            "type": "Front-end",
+            "description": "Hypertext Markup Language for structuring content on the web."
+          },
+          {
+            "name": "CSS",
+            "type": "Front-end",
+            "description": "Cascading Style Sheets for styling web pages."
+          },
+          {
+            "name": "JavaScript",
+            "type": "Front-end",
+            "description": "Programming language for adding interactivity to web pages."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Front-end Development",
+            "description": "Developing the user interface and user experience of a website."
+          }
+        ]
+      },
+      {
+        "title": "Task 2: Creating a RESTful API",
+        "description": "Design and implement a simple RESTful API using C#.",
+        "difficulty": "Easy",
+        "techStacks": [
+          {
+            "name": "C#",
+            "type": "Back-end",
+            "description": "Programming language for building Windows applications and web services."
+          },
+          {
+            "name": "ASP.NET Core",
+            "type": "Back-end",
+            "description": "Cross-platform, open-source framework for building web applications."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Back-end Development",
+            "description": "Developing the server-side logic and database integration of a website."
+          }
+        ]
+      },
+      {
+        "title": "Task 3: Integrating Front-end with Back-end",
+        "description": "Integrate the simple webpage with the RESTful API created in Task 2.",
+        "difficulty": "Easy",
+        "techStacks": [
+          {
+            "name": "HTML",
+            "type": "Front-end",
+            "description": "Hypertext Markup Language for structuring content on the web."
+          },
+          {
+            "name": "CSS",
+            "type": "Front-end",
+            "description": "Cascading Style Sheets for styling web pages."
+          },
+          {
+            "name": "JavaScript",
+            "type": "Front-end",
+            "description": "Programming language for adding interactivity to web pages."
+          },
+          {
+            "name": "C#",
+            "type": "Back-end",
+            "description": "Programming language for building Windows applications and web services."
+          },
+          {
+            "name": "ASP.NET Core",
+            "type": "Back-end",
+            "description": "Cross-platform, open-source framework for building web applications."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Full Stack Development",
+            "description": "Developing both the front-end and back-end of a website."
+          }
+        ]
+      },
+      {
+        "title": "Task 4: Understanding C# Basics",
+        "description": "This task involves understanding the basic syntax and data types of C#.",
+        "difficulty": "Easy",
+        "techStacks": [
+          {
+            "name": "C#",
+            "type": "Programming Language",
+            "description": "A modern, object-oriented, and type-safe programming language created by Microsoft."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Programming",
+            "description": "The ability to write code in a programming language."
+          }
+        ]
+      },
+      {
+        "title": "Task 5: Implement a RESTful API",
+        "description": "Design and implement a RESTful API using C# that supports CRUD operations on a simple entity such as a 'Book' with attributes like title, author, and publication year.",
+        "difficulty": "Medium",
+        "techStacks": [
+          {
+            "name": "C#",
+            "type": "Programming Language",
+            "description": "A modern, object-oriented programming language."
+          },
+          {
+            "name": "ASP.NET Core",
+            "type": "Web Framework",
+            "description": "A cross-platform, open-source framework for building web applications."
+          }
+        ],
+        "skills": [
+          {
+            "name": "API Design",
+            "description": "Understanding of how to design a RESTful API."
+          },
+          {
+            "name": "C# Programming",
+            "description": "Proficiency in C# programming language."
+          }
+        ]
+      },
+      {
+        "title": "Task 6: Create a Frontend for the API",
+        "description": "Create a simple frontend using a JavaScript framework like React or Angular that consumes the API implemented in Task 5 and displays the data in a user-friendly manner.",
+        "difficulty": "Medium",
+        "techStacks": [
+          {
+            "name": "React",
+            "type": "JavaScript Framework",
+            "description": "A JavaScript library for building user interfaces."
+          },
+          {
+            "name": "JavaScript",
+            "type": "Programming Language",
+            "description": "A high-level, dynamic, untyped, and interpreted programming language."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Frontend Development",
+            "description": "Knowledge of frontend development principles and practices."
+          },
+          {
+            "name": "JavaScript",
+            "description": "Proficiency in JavaScript programming language."
+          }
+        ]
+      },
+      {
+        "title": "Task 7: Implement Authentication and Authorization",
+        "description": "Implement authentication and authorization for the API using OAuth2 protocol to ensure secure access to the API endpoints.",
+        "difficulty": "Medium",
+        "techStacks": [
+          {
+            "name": "OAuth2",
+            "type": "Authentication Protocol",
+            "description": "An open standard for access delegation, commonly used as a way for users to grant websites or applications limited access to user information without exposing passwords."
+          },
+          {
+            "name": "IdentityServer",
+            "type": "Authentication and Authorization Framework",
+            "description": "An OpenID Connect and OAuth 2.0 framework for ASP.NET Core."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Authentication and Authorization",
+            "description": "Understanding of authentication and authorization concepts and protocols."
+          },
+          {
+            "name": "OAuth2",
+            "description": "Knowledge of OAuth2 protocol and its implementation."
+          }
+        ]
+      },
+      {
+        "title": "Task 8: Implementing a RESTful API",
+        "description": "Implement a RESTful API using C# that supports CRUD operations on a simple entity such as a 'Book' with attributes like title, author, and publication year.",
+        "difficulty": "Medium",
+        "techStacks": [
+          {
+            "name": "C#",
+            "type": "Programming Language",
+            "description": "A modern, object-oriented programming language."
+          },
+          {
+            "name": "ASP.NET Core",
+            "type": "Web Framework",
+            "description": "A cross-platform, open-source framework for building web applications."
+          }
+        ],
+        "skills": [
+          {
+            "name": "API Design",
+            "description": "Understanding of how to design and implement RESTful APIs."
+          },
+          {
+            "name": "C# Programming",
+            "description": "Proficiency in C# programming language."
+          }
+        ]
+      },
+      {
+        "title": "Task 9: Implement a RESTful API",
+        "description": "Implement a RESTful API using C# that supports CRUD operations on a simple entity such as a 'Book' with attributes like title, author, and publication year.",
+        "difficulty": "Hard",
+        "techStacks": [
+          {
+            "name": "C#",
+            "type": "Programming Language",
+            "description": "A modern, object-oriented programming language."
+          },
+          {
+            "name": "ASP.NET Core",
+            "type": "Web Framework",
+            "description": "A cross-platform, open-source framework for building web applications."
+          }
+        ],
+        "skills": [
+          {
+            "name": "API Design",
+            "description": "The ability to design and implement RESTful APIs."
+          },
+          {
+            "name": "C# Programming",
+            "description": "Proficiency in C# programming language."
+          }
+        ]
+      },
+      {
+        "title": "Task 10: Build a Single Page Application",
+        "description": "Build a single page application using a JavaScript framework such as React or Angular that consumes the API implemented in Task 9.",
+        "difficulty": "Hard",
+        "techStacks": [
+          {
+            "name": "React",
+            "type": "JavaScript Framework",
+            "description": "A JavaScript library for building user interfaces."
+          },
+          {
+            "name": "C#",
+            "type": "Programming Language",
+            "description": "A modern, object-oriented programming language."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Front-end Development",
+            "description": "The ability to build user interfaces and single page applications."
+          },
+          {
+            "name": "JavaScript",
+            "description": "Proficiency in JavaScript programming language."
+          }
+        ]
+      }
+    ]
+  },
+  "difficulty_counts": {
+    "easy_tasks_count": 4,
+    "medium_tasks_count": 4,
+    "hard_tasks_count": 2
+  }
+}

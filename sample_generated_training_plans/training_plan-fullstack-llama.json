@@ -1,0 +1,133 @@
+{
+  "training_plan": {
+    "title": "Full Stack Developer Intern Internship Training Plan",
+    "description": "A comprehensive training plan for a 210-hour internship in Software Development, designed to equip interns with the necessary skills and knowledge to excel as a Full Stack Developer Intern.",
+    "durationInHrs": 210,
+    "tasks": [
+      {
+        "title": "Task 1: Introduction to Frontend Development",
+        "description": "Learn the basics of HTML, CSS, and JavaScript.",
+        "difficulty": "Easy",
+        "techStacks": [
+          {
+            "name": "HTML",
+            "type": "Frontend",
+            "description": "Hypertext Markup Language for structuring content on the web."
+          },
+          {
+            "name": "CSS",
+            "type": "Frontend",
+            "description": "Cascading Style Sheets for styling web pages."
+          },
+          {
+            "name": "JavaScript",
+            "type": "Frontend",
+            "description": "Programming language for adding interactivity to web pages."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Web Development Basics",
+            "description": "Understanding of HTML, CSS, and JavaScript fundamentals."
+          }
+        ]
+      },
+      {
+        "title": "Task 2: Introduction to Backend Development",
+        "description": "Learn the basics of Node.js and Express framework.",
+        "difficulty": "Easy",
+        "techStacks": [
+          {
+            "name": "Node.js",
+            "type": "Backend",
+            "description": "JavaScript runtime environment for server-side programming."
+          },
+          {
+            "name": "Express",
+            "type": "Backend",
+            "description": "Fast, unopinionated, minimalist web framework for Node.js."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Server-Side Programming",
+            "description": "Understanding of Node.js and Express framework basics."
+          }
+        ]
+      },
+      {
+        "title": "Task 3: Frontend Development",
+        "description": "Develop a user interface for a web application using React.",
+        "difficulty": "Medium",
+        "techStacks": [
+          {
+            "name": "React",
+            "type": "Frontend Framework",
+            "description": "A JavaScript library for building user interfaces or UI components."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Frontend Development",
+            "description": "The practice of converting data to a graphical interface, via the user, especially in web development."
+          }
+        ]
+      },
+      {
+        "title": "Task 4: Backend Development",
+        "description": "Create a REST API using Node.js and Express.",
+        "difficulty": "Medium",
+        "techStacks": [
+          {
+            "name": "Node.js",
+            "type": "Backend Framework",
+            "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine."
+          },
+          {
+            "name": "Express",
+            "type": "Backend Framework",
+            "description": "A minimal and flexible Node.js web application framework."
+          }
+        ],
+        "skills": [
+          {
+            "name": "Backend Development",
+            "description": "The server-side of the application, responsible for managing data, requests, and interactions."
+          }
+        ]
+      },
+      {
+        "title": "Task 5: Full Stack Development",
+        "description": "Develop a full stack application with a RESTful API and a user-friendly frontend.",
+        "difficulty": "Hard",
+        "techStacks": [
+          {
+            "name": "Node.js",
+            "type": "Backend",
+            "description": "A JavaScript runtime environment for executing JavaScript code server-side."
+          },
+          {
+            "name": "React",
+            "type": "Frontend",
+            "description": "A JavaScript library for building user interfaces."
+          }
+        ],
+        "skills": [
+          {
+            "name": "JavaScript",
+            "description": "A programming language used for both front-end and back-end development."
+          },
+          {
+            "name": "Problem-Solving",
+            "description": "Ability to solve complex problems in software development."
+          }
+        ]
+      }
+    ]
+  },
+  "difficulty_counts": {
+    "easy_tasks_count": 2,
+    "medium_tasks_count": 2,
+    "hard_tasks_count": 1
+  }
+}

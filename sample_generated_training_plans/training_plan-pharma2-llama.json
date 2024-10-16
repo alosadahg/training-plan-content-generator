@@ -1,0 +1,186 @@
+{
+    "training_plan": {
+        "title": "Pharmcist Intern Internship Training Plan",
+        "description": "A comprehensive training plan for a 410-hour internship in Pharmacy, designed to equip interns with the necessary skills and knowledge to excel as a Pharmcist Intern.",
+        "durationInHrs": 410,
+        "tasks": [
+            {
+                "title": "Task 1: Medication Dispensing",
+                "description": "Understand and follow the process for dispensing medications to patients, including double-checking prescriptions, calculating dosages, and labeling containers.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "Pharmacy Management Software",
+                        "type": "Software",
+                        "description": "A system used to manage and track patient information, prescriptions, and inventory."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Medication Safety",
+                        "description": "The ability to ensure the safe and effective use of medications."
+                    }
+                ]
+            },
+            {
+                "title": "Task 2: Inventory Management",
+                "description": "Manage and maintain the pharmacy's inventory of medications, ensuring that stock levels are properly maintained, expired medications are removed, and that all medications are stored properly.",
+                "difficulty": "Hard",
+                "techStacks": [
+                    {
+                        "name": "Inventory Management Software",
+                        "type": "Software",
+                        "description": "A system used to track and manage the pharmacy's inventory of medications."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Supply Chain Management",
+                        "description": "The ability to manage the flow of goods and services, including the procurement, storage, and distribution of medications."
+                    }
+                ]
+            },
+            {
+                "title": "Task 3: Patient Education",
+                "description": "Educate patients on the proper use of their medications, including dosages, side effects, and storage.",
+                "difficulty": "Easy",
+                "techStacks": [],
+                "skills": [
+                    {
+                        "name": "Communication",
+                        "description": "The ability to effectively communicate with patients and other healthcare professionals."
+                    }
+                ]
+            },
+            {
+                "title": "Task 4: Medicine Dispensing",
+                "description": "Dispense medications to patients according to prescriptions, while double-checking dosages and interactions with other drugs.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "Pharmacy Management Software",
+                        "type": "Software",
+                        "description": "Using software for tracking inventory, managing patient profiles, and generating accurately labeled prescription bottles."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Medication Safety",
+                        "description": "Understanding of medication safety principles, including correct dosage calculation and potential drug-drug interactions."
+                    }
+                ]
+            },
+            {
+                "title": "Task 5: Inventory Management",
+                "description": "Monitor, order, and maintain pharmacy inventory, ensuring timely delivery of medications, and proper stock rotation.",
+                "difficulty": "Hard",
+                "techStacks": [
+                    {
+                        "name": "Inventory Management Software",
+                        "type": "Software",
+                        "description": "Utilizing inventory management software to track stock levels, order new inventory, and set up automatic reorder points."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Supply Chain Management",
+                        "description": "Knowledge of supply chain management techniques to optimize inventory costs, mitigate waste, and minimize stockouts."
+                    }
+                ]
+            },
+            {
+                "title": "Task 6: Patient Consultation",
+                "description": "Provide patients with guidance on their medications, addressing any concerns related to side effects, efficacy, or proper usage.",
+                "difficulty": "Easy",
+                "techStacks": [
+                    {
+                        "name": " None",
+                        "type": "None",
+                        "description": "No specific technology or software required for this task."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Communication",
+                        "description": "Excellent interpersonal skills and the ability to communicate technical information to patients with varying levels of health literacy."
+                    }
+                ]
+            },
+            {
+                "title": "Task 7: Medication Inventory Management",
+                "description": "Manage and update medication inventory in the pharmacy.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "Inventory Management Software",
+                        "type": "Software",
+                        "description": "Software used for tracking and maintaining inventory."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Inventory Management",
+                        "description": "Ability to manage and organize inventory."
+                    }
+                ]
+            },
+            {
+                "title": "Task 8: Patient Counseling",
+                "description": "Provide medication information and guidance to patients.",
+                "difficulty": "Hard",
+                "techStacks": [],
+                "skills": [
+                    {
+                        "name": "Communication",
+                        "description": "Ability to clearly and effectively communicate with patients."
+                    },
+                    {
+                        "name": "Medication Knowledge",
+                        "description": "Knowledge of various medications and their uses."
+                    }
+                ]
+            },
+            {
+                "title": "Task 9: Insurance Claims Processing",
+                "description": "Process and submit insurance claims for prescriptions.",
+                "difficulty": "Easy",
+                "techStacks": [
+                    {
+                        "name": "Pharmacy Management System",
+                        "type": "Software",
+                        "description": "Software used for managing various aspects of the pharmacy, including insurance claims processing."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Data Entry",
+                        "description": "Ability to accurately enter data."
+                    }
+                ]
+            },
+            {
+                "title": "Task 10: Dispense medications to patients",
+                "description": "Accurately measure and package medications for patients, check prescriptions for accuracy, and provide necessary counseling to patients.",
+                "difficulty": "Medium",
+                "techStacks": [
+                    {
+                        "name": "Medication Dispensing System",
+                        "type": "Software",
+                        "description": "A system used to manage and dispense medications in a pharmacy."
+                    }
+                ],
+                "skills": [
+                    {
+                        "name": "Medication Knowledge",
+                        "description": "A deep understanding of different medications, their uses, side-effects, and interactions."
+                    }
+                ]
+            }
+        ]
+    },
+    "difficulty_counts": {
+        "easy_tasks_count": 3,
+        "medium_tasks_count": 4,
+        "hard_tasks_count": 3
+    }
+}
